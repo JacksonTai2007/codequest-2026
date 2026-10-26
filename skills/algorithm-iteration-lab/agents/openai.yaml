@@ -1,0 +1,4 @@
+interface:
+  display_name: "Algorithm Iteration Lab"
+  short_description: "用模型提出假设、本地仿真验证，按关键回归和计算预算迭代竞技算法"
+  default_prompt: "Use $algorithm-iteration-lab to inspect my algorithm and local evaluator, establish a baseline, propose an evidence-backed candidate, and validate it within a measured compute budget."
